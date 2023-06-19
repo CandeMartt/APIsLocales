@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APIsLocales</name>
+    </assembly>
+    <members>
+        <member name="P:APIsLocales.ViewModels.DetailViewModel.Monkey">
+            <inheritdoc cref="F:APIsLocales.ViewModels.DetailViewModel.monkey"/>
+        </member>
+        <member name="P:APIsLocales.ViewModels.DetailViewModel.Count">
+            <inheritdoc cref="F:APIsLocales.ViewModels.DetailViewModel.count"/>
+        </member>
+        <member name="F:APIsLocales.ViewModels.DetailViewModel.checkInternetCommand">
+            <summary>The backing field for <see cref="P:APIsLocales.ViewModels.DetailViewModel.CheckInternetCommand"/>.</summary>
+        </member>
+        <member name="P:APIsLocales.ViewModels.DetailViewModel.CheckInternetCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:APIsLocales.ViewModels.DetailViewModel.CheckInternet"/>.</summary>
+        </member>
+        <member name="F:APIsLocales.ViewModels.DetailViewModel.backCommand">
+            <summary>The backing field for <see cref="P:APIsLocales.ViewModels.DetailViewModel.BackCommand"/>.</summary>
+        </member>
+        <member name="P:APIsLocales.ViewModels.DetailViewModel.BackCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:APIsLocales.ViewModels.DetailViewModel.Back"/>.</summary>
+        </member>
+        <member name="F:APIsLocales.ViewModels.DetailViewModel.goToAnotherCommand">
+            <summary>The backing field for <see cref="P:APIsLocales.ViewModels.DetailViewModel.GoToAnotherCommand"/>.</summary>
+        </member>
+        <member name="P:APIsLocales.ViewModels.DetailViewModel.GoToAnotherCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:APIsLocales.ViewModels.DetailViewModel.GoToAnother"/>.</summary>
+        </member>
+        <member name="F:APIsLocales.ViewModels.MainPageViewModel.checkInternetCommand">
+            <summary>The backing field for <see cref="P:APIsLocales.ViewModels.MainPageViewModel.CheckInternetCommand"/>.</summary>
+        </member>
+        <member name="P:APIsLocales.ViewModels.MainPageViewModel.CheckInternetCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:APIsLocales.ViewModels.MainPageViewModel.CheckInternet"/>.</summary>
+        </member>
+    </members>
+</doc>
